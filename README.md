@@ -6,7 +6,7 @@ This repository contains code for replicating the results of EfficientNet and ex
 ## Requirements
 - Python 3.x
 - TensorFlow
-- Other dependencies listed in `requirements.txt`
+
 
 ## Setup
 ```bash
