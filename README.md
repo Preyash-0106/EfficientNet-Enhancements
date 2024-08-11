@@ -11,5 +11,5 @@ This repository contains code for replicating the results of EfficientNet and ex
 ## Setup
 ```bash
 python -m venv env
-source env/bin/activate  # or .\env\Scripts\activate on Windows
-pip install -r requirements.txt
+\env\Scripts\activate on Windows
+
